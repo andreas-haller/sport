@@ -40,10 +40,25 @@ Unless stated otherwise, times are electronic and competition-legal.
 
 ---
 
-## Strength
+## Lifting
 
-| Discipline      | Weight      | Date       | Location  |
-|---------------|-----------|------------|-----------|
-|           |      |  |           |
+| Discipline | Reps and Weight | Date | Comment |
+|-----------|--------|------|----------|
+| Back Squat | 1@145kg | 10.2025 |  |
+| Bench Press | 1@95kg | 01.2026 |  |
+| Deadlift | 1@160kg | 2025 |  |
+| Strict Press | 1@65kg | 01.2026 |  |
+| Front Squat | 1@105kg | 17.07.2017 |  |
+| Overhead Squat | 1@80kg | 16.12.2017 |  |
+| Push Press | 1@85kg | 20.08.2020 |  |
+| Clean | 1@110kg | 06.2025 | Lupus Compete Day, Womans Barbell |
+| Clean and Jerk | 1@95kg | 22.06.2019 |  |
+| Snatch | 1@75kg | 02.02.2020 |  |
+
+## Crossfit
+
+| Workout | Reps or Time | Date | Comment |
+|-----------|--------|------|----------|
+| Fran | 4:19min | 15.10.2025 |  |
 
 ## Other Skills
