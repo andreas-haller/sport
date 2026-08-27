@@ -16,11 +16,14 @@ TODO add more details.
 
 ### Running
 
+- 1500m - **4:47,64min** (05.07.2026, Aschaffenburg, Bayerische Senioren M40) — season best; ~4s under 2025 PB; raced on a calf tweaked the day before
+  - **1st place M40** — awarded the official "Wimpel" (pennant) for the age-group title. Note: the formal qualifying standard for the title was ~sub-4:38 (exact figure uncertain); the placing was given due to a timing mix-up, so the title is unofficial in the strict sense.
 - 10k - **41:18 / 41:08** (22.03.2026) — calf-limited, not fitness-limited
 - 800m - **2:18,31** (14.06.2026, tune-up) — all-out, 11 days post blood donation; splits 67.6 / 70.7
 
 ### CrossFit / Functional Fitness
 
+- Clean & Jerk - **100 kg** (late June/July 2026, CF class)
 - CF Team Comp (MF) — **Rise Athletics, Pfronten** (21.02.2026)
   - WOD 1: 42 rep front squat @ 65 kg (max rep)
   - WOD 2 "Synchronised Suffering": 13:02 (TC 15:00)
